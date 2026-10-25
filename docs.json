@@ -19,7 +19,9 @@
         "group": "Puzzles",
         "pages": [
           "puzzles/queens-pawn-openings",
-          "puzzles/kings-pawn-openings"
+          "puzzles/kings-pawn-openings",
+          "puzzles/semi-open-defences",
+          "puzzles/flank-openings"
         ]
       },
       {
@@ -33,8 +35,9 @@
   },
   "contextual": {
     "options": [
+      "view",
       "copy",
-      "view"
+      "download-pdf"
     ]
   }
 }
