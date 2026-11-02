@@ -28,7 +28,9 @@
         "group": "Solutions",
         "pages": [
           "solutions/queens-pawn-openings",
-          "solutions/kings-pawn-openings"
+          "solutions/kings-pawn-openings",
+          "solutions/semi-open-defences",
+          "solutions/flank-openings"
         ]
       }
     ]
