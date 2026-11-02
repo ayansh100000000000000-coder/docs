@@ -39,5 +39,6 @@
       "copy",
       "download-pdf"
     ]
-  }
+  },
+  "description": "This is a Chess Book Site"
 }
